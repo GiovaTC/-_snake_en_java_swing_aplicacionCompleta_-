@@ -2,6 +2,8 @@
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2d5b8c41-a9de-4b0b-8fad-afb1cfc88363" />  
 
+<img width="1279" height="1075" alt="image" src="https://github.com/user-attachments/assets/0c3fc9b7-6f48-4549-94ab-1411fa63f4a0" />  
+
 # Snake en Java (Swing) — Aplicación Completa .
 
 Implementación completa y funcional del clásico **Snake en Java**, diseñada para ejecutarse directamente en **IntelliJ IDEA**, utilizando **Java Swing** para la interfaz gráfica.
